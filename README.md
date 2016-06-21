@@ -1,2 +1,3 @@
 # Learn
-i love mine decsion 
+c++ learn
+
